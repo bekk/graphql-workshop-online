@@ -1,0 +1,31 @@
+# The email is a string representation of an email. 
+scalar Email
+
+# A date in the iso 8601 format. For example 2018-01-03T09:03:04Z
+scalar Date
+
+# A fraternity. e.g. Online NTNU
+type fraternity {
+    name: String!
+    email: Email
+    phoneNumber: Int
+    organizationNumber: Int
+    students: [Student!]!
+    committees: [Committee!]!
+}
+
+# A committee for online
+type Committee {
+    name: String!
+    email: Email
+    description: String
+    members: [Student!]!
+}
+
+# A student at NTNU
+type Student {
+    name: String!
+    email: Email
+    ID: String!
+    startDate: Date
+}
