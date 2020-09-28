@@ -16,6 +16,6 @@ Bruk Github API explorer til å hente ut ditt eget github-brukernavn og epost.
 
 Hent ut alle repositories som du har på github. Når ble repositoriene dine opprettet?
 
-## Deloppgave 3
+### Deloppgave 3
 
 Kan du finne alle medlemmer av en organization du selv er medlem av. Klarer du å lage en graf som peker tilbake til din egen bruker?
