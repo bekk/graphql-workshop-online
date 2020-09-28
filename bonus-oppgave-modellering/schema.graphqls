@@ -1,0 +1,18 @@
+# A date in the iso 8601 format. For example 2018-01-03T09:03:04Z
+scalar Date
+
+# A fraternity. e.g. Online NTNU
+type fraternity {
+  # The name of the fraternity, for example Online
+  name: String!
+  # The email of the fraternity
+  email: Email
+  # The phone number for the fraternity
+  phoneNumber: Int
+  # The norwegian organizational number
+  organizationNumber: Int!
+  # A list of student members in the fraternity
+  students: [Student!]!
+  # Committees belonging to the fraternity
+  committees: [Committee!]!
+}

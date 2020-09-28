@@ -2,7 +2,7 @@
 
 Bonusoppgaven er en introduksjon til GraphQL skjema og modellering. I denne oppgaven er det meningen å bli kjent med GraphQL skjema språket og hvordan vi kan modellere et API med GraphQL.
 
-Åpne en ny fil som du kalles `schema.graphqls`. Denne filen skal vi skrive graphql skjema i og det kan dermed være lurt å installere syntax highlighting eller annen hjelp til din favoritt editor. Bruker du VS-code kan du installere plugins som er anbefalt for dette repoet.
+Åpne filen `schema.graphqls`. Denne filen skal vi skrive graphql skjema i og det kan dermed være lurt å installere syntax highlighting eller annen hjelp til din favoritt editor. Bruker du VS-code kan du installere plugins som er anbefalt for dette repoet. Merk at denne filen er delvis utfylt men mangler fortsatt en del typer.
 
 Vi skal nå modellere et kjent domene for dere, nemlig Online. I denne oppgaven er det bare en liten del av Online vi skal modellere. Under blir det en enkel beskrivelse av hvordan modellen kan være, men ikke vær redd for å endre på dette.
 
