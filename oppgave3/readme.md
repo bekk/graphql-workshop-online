@@ -24,6 +24,6 @@ Siden øvelsen gjøres i GraphiQL manuelt så kan det være greit å sette tidsi
 
 ## Deloppgave 4
 
-Lag en spørringe som spør etter gjennomsnittlig årsdøgnstrafikk for 2018 og 2019 for samme TRP. Prøv å gjør dette i en spørringen.
+Lag en spørringe som spør etter gjennomsnittlig månedsdøgnstrafikk for 2018 og 2019 for samme TRP. Prøv å gjør dette i en spørring.
 
 Hint: Man kan bruke fragments i GraphQL for å slippe å gjenta felter.
