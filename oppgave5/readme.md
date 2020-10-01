@@ -1,7 +1,7 @@
 # Oppgave 5
 
-Nå skal vi se et enkelt eksempel på hvordan man kan ta i bruk en GraphQL-klient for Python. Fordelen med python i denne sammenheng er at siden språket et dynamisk typet, så trenger vi ikke og generere typer på forhånd som man må med f.eks TypeScript, Java, C#, Kotlin osv
+Enden på visa! Du kan nå velge å prøve noen andre større workshops som andre har laget, hvor man lager en GraphQL-server eller forsøke selv på egenhånd. Et annet forslag er å lage en GraphQL klient for et ferdig graphql API som finnes.
 
-## For å starte
+F.eks https://rickandmortyapi.com/graphql for informasjon om Rick and Morty eller trafikkdata APIet https://www.vegvesen.no/trafikkdata/api/.
 
-Klikk på følgende colab lenke og følg instruksjonene der. https://colab.research.google.com/drive/1y1dbC8UJIP8Wy3OfX3sVjvjjbFPC1TWv?usp=sharing
+Andre mer omfattende Workshops er https://github.com/bekk/ndc-graphql-workshop som ble holdt av BEKK på NDC, eller https://github.com/bekk/GraphQL-workshop som også er laget av Bekk.
